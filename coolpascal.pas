@@ -1,6 +1,6 @@
-var coolstring:String = "Cool";
+var coolstring:String = 'Cool';
 
 begin
-	writeLn("Cool Line");
- writeLn(coolString");
+	writeLn('Cool Line');
+    writeLn(coolString);
 end.
